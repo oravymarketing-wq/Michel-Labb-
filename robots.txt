@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /documents-de-soumission.html
+
+Sitemap: https://www.cmlabbe.com/sitemap.xml
